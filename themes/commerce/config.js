@@ -9,6 +9,7 @@ const CONFIG = {
   COMMERCE_TEXT_FOOTER_TITLE: '联系我们', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
   COMMERCE_TEXT_FOOTER_MENU_1: '产品中心', // COMMERCE主题页脚左侧菜单标题1
   COMMERCE_TEXT_FOOTER_MENU_2: '关于我们', // COMMERCE主题页脚左侧菜单标题2
+  COMMERCE_TEXT_FOOTER_MENU_3: '专属服务', // COMMERCE主题页脚左侧菜单标题3
 
   COMMERCE_FOOTER_RIGHT_IMG_URL: null, // 显示页脚右侧的图片，通常放二维码
   COMMERCE_FOOTER_RIGHT_TEXT: null, // 页脚右侧图片下的文字描述
