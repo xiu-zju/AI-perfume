@@ -4,7 +4,7 @@ const CONFIG = {
 
   COMMERCE_TEXT_CENTER_TITLE: '产品信息', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:
-    '这是当下最受欢迎的产品。当然，你也可以打造你自己的独特风格！', // 中间产品区块文字描述
+    '这是当下最受欢迎的产品。当然，你也可以点击右上角的“AI定制”，打造你自己的独特风格！', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: '产品分类', // 左侧产品分类标题
   COMMERCE_TEXT_FOOTER_TITLE: '联系我们', // COMMERCE主题页脚文案标题；按Shift+Enter键可以换行
   COMMERCE_TEXT_FOOTER_MENU_1: '产品中心', // COMMERCE主题页脚左侧菜单标题1
