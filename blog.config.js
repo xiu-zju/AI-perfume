@@ -68,7 +68,6 @@ const BLOG = {
 
   // 更新无衬线字体列表
   FONT_SANS: [
-    '"JetBrains Mono"',
     '"LXGW WenKai Screen"',
     '-apple-system',
     'BlinkMacSystemFont',
